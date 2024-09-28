@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "first post title up ",
+      "content": "first post body upnn",
+      "id": "abc123"
+    },
+    {
+      "title": "second post title",
+      "content": "second post content",
+      "id": "abc124"
+    },
+    {
+      "id": "1234abx",
+      "title": "title 4",
+      "content": "yes this created"
+    }
+  ]
+}
